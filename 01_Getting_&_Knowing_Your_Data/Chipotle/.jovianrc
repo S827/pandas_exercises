@@ -1,3 +1,7 @@
 {
-  "notebooks": {}
+  "notebooks": {
+    "Exercises.ipynb": {
+      "slug": "a4221a83b0b243e09cc891143a425f87"
+    }
+  }
 }
